@@ -26,5 +26,9 @@ class Quick {
     }
 }
 
+var t0 = performance.now();
 let swag = new Quick(unsortedArray);
+var t1 = performance.now();
 console.log(swag.array);
+console.log("Execute Time : " + (t1 - t0) + " milliseconds.")
+

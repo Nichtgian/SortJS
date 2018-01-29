@@ -1,4 +1,7 @@
-let unsortedArray = [1, 5, 8, 6, 6, 3, 1, 9, 11];
+let unsortedArray = [];
+for (let i = 0; i < 10000; i++) {
+    unsortedArray.push(Math.random());
+}
 
 class Heap {
     constructor(array) {

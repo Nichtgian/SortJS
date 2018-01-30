@@ -1,5 +1,5 @@
 # sum sorts
 
-[Heap](https://nichtgian.github.io/Sort/heap/index.html)
+[Heap](https://nichtgian.github.io/sort/heap/index.html)
 
-[Quick](https://nichtgian.github.io/Sort/quick/index.html)
+[Quick](https://nichtgian.github.io/sort/quick/index.html)

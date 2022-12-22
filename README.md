@@ -1,5 +1,6 @@
-# sum sorts
+# Sorting algorithms
 
-[Heap](https://nichtgian.github.io/sort/heap/index.html)
+Implemented in Javascript. This includes: 
 
-[Quick](https://nichtgian.github.io/sort/quick/index.html)
+- Heap sort
+- Quick sort
